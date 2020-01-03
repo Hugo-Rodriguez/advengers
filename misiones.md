@@ -1,3 +1,3 @@
 ## Misiones
 * 1
-* 2
+* 2 captura a red
